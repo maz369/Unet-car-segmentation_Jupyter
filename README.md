@@ -6,13 +6,13 @@ This implementation is based on Keras with Tensorflow backend. It has been teste
 
 This can serve as an example for learning to:
 
-  **Train a network using your own images**
+  - **Train a network using your own images**
   
-  **Learn the structure of Unet netwrok**
+  - **Learn the structure of Unet netwrok**
   
-  **Test and fine tune a network to improve the segmentation task**
+  - **Test and fine tune a network to improve the segmentation task**
   
-  **Perform 2D segmentation with other datasets**
+  - **Perform 2D segmentation with other datasets**
 
 
 # Test
