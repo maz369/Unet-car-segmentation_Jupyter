@@ -10,14 +10,14 @@ This can serve as an example for learning to:
   Test and fine tune a network to improve the segmentation task.
   Perform 2D segmentation with other datasets.
 
-## Requirements
+
+## Test
 - Unzip data folder
 - Create a virtual environment with Anaconda:  conda create -n DL_example python=3.6
 - Activate the environment: activate DL_example
 - Change directory to where you cloned the current files: cd ./where files are downloaded
 - Install required libraries: pip install requirements.txt
 
-## Test
 To test the notebook version, type the following in the command line:  jupyter notebook
 This will open the notebook which will allow you to run either the grayscale (car_segmentation_Unet_grayscale.ipynb) or RGB (car_segmentation_Unet_rgb.ipynb) version of the code. You should be able to run each cell and get the result.
 
