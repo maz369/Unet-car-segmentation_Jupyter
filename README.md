@@ -5,13 +5,13 @@ This implementation is based on Keras with Tensorflow backend. It has been teste
 
 
 This can serve as an example for learning to:
-  Train a network using your own images.
-  Learn the structure of Unet netwrok.
-  Test and fine tune a network to improve the segmentation task.
-  Perform 2D segmentation with other datasets.
+  **Train a network using your own images**
+  **Learn the structure of Unet netwrok**
+  **Test and fine tune a network to improve the segmentation task**
+  **Perform 2D segmentation with other datasets**
 
 
-## Test
+# Test
 - Unzip data folder
 - Create a virtual environment with Anaconda:  conda create -n DL_example python=3.6
 - Activate the environment: activate DL_example
@@ -21,7 +21,7 @@ This can serve as an example for learning to:
 To test the notebook version, type the following in the command line:  jupyter notebook
 This will open the notebook which will allow you to run either the grayscale (car_segmentation_Unet_grayscale.ipynb) or RGB (car_segmentation_Unet_rgb.ipynb) version of the code. You should be able to run each cell and get the result.
 
-## Reference
+# Reference
 Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." In International Conference on Medical image computing and computer-assisted intervention, pp. 234-241. Springer, Cham, 2015.
 
 # License
