@@ -17,7 +17,7 @@ This can serve as an example for learning to:
 
 # Test
 - Unzip data folder
-- Create a virtual environment with Anaconda:  conda create -n DL_example python=3.6
+- Create a virtual environment with Anaconda:  conda create -n DL_example python=3.6 (Python 3 is compatible with packages)
 - Activate the environment: activate DL_example
 - Change directory to where you cloned the current files: cd ./where files are downloaded
 - Install required libraries: pip install -r requirements.txt
