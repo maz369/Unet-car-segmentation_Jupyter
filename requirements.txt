@@ -5,11 +5,3 @@ seaborn
 sklearn
 tensorflow-gpu
 jupyter
-
-
-
-
-
-
-
-
